@@ -1,0 +1,30 @@
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: rgba(212, 180, 71, 0.459);
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 35px;
+}
+p {
+  font-size: 20px;
+}
+h1,
+h2,
+p {
+  text-align: center;
+  font-family: "Cedarville Cursive", cursive;
+}
+img {
+  width: 100%;
+  border-radius: 4px;
+}
+.links {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  margin: 30px;
+}
